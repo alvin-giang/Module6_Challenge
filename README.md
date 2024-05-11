@@ -19,7 +19,7 @@ I also compute the linear regression for each relationship, separate the plots i
     Southern Hemisphere: Wind Speed (m/s) vs. Latitude
 The scatter plots also include the linear regression line, the model's formula, and the rvalue, and the explaination of what the linear regression is modelling.
 
-###VacationPy
+### VacationPy
 In this challenge, I will use my weather data skills, Jupyter notebooks, the geoViews Python library, and the Geoapify API to plan future vacations.
 First, I create a map that displays a point for every city in the city dataframe. The size of the point is the humidity in each city.
 Second, I narrow down the city datadframe to find your ideal weather condition which is a max temperature lower than 27 degrees but higher than 21, wind speed less than 4.5m/s, and zero cloudiness.
